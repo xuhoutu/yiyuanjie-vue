@@ -1,0 +1,15 @@
+.m-home{
+  @include flex();
+  width:100%;
+  header{
+    height:.48rem;
+    background:#fb4747;
+    h1{
+      color:#fff;
+      line-height: .48rem;
+      text-align: center;
+      font-size: .18rem;
+      font-weight: normal;
+    }
+  }
+}

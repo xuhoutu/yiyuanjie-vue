@@ -1,0 +1,19 @@
+<div class="register">
+  <header>
+    <div>取消</div>
+    <div></div>
+    <div>登陆<div>
+  </header>
+  <section>
+    <div>
+      <p id="null">手机号码不能为空</p>
+      <p id="phone">请输入正确得电话号码</p>
+      <input id="user" type="text" placeholder="请输入手机号"/>
+      <span>获取验证码</span>
+    </div>
+    <div>
+      <input id="pass" type="text" placeholder="请输入验证码"/>
+    </div>
+    <div id="btn">下一步</div>
+  </section>
+</div>

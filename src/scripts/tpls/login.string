@@ -1,0 +1,21 @@
+<div class="login">
+  <header>
+    <div>取消</div>
+    <div></div>
+    <div>注册<div>
+  </header>
+  <section>
+    <div><input type="text" placeholder="请输入手机号"/></div>
+    <div><input type="text" placeholder="请输入验证码"/></div>
+    <div id="btn">登录</div>
+  </section>
+  <footer>
+    <div>忘记密码？</div>
+    <div><span>或使用以下方式直接登录</span></div>
+    <div>
+    <img src="/images/sq-img/sq-wx.jpg">
+    <img src="/images/sq-img/sq-qq.jpg">
+    <img src="/images/sq-img/sq-xl.jpg">
+    </div>
+  </footer>
+</div>

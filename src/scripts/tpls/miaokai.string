@@ -1,0 +1,104 @@
+
+<div  class="m-miaokai">
+  <header>
+    <h1>秒开</h1>
+  </header>
+  <section>
+    <ul>
+      <li>
+        <div>
+          <i><img src="/images/miaokai/mk001.jpg" /></i>
+          <b>【就怕你不中】 京东E卡电子看见俺还得是夸奖哈</b>
+        </div>
+        <div>
+          <div>
+            <p>开奖进度:<span>100%<span></p>
+            <p><span></span></p>
+          </div>
+          <div>立即夺宝</div>
+        </div>
+      </li>
+      <li>
+        <div>
+          <i><img src="/images/miaokai/mk002.jpg" /></i>
+          <b>【就怕你不中】 京东E卡电子看见俺还得是夸奖哈</b>
+        </div>
+        <div>
+          <div>
+            <p>开奖进度:<span>33%<span></p>
+            <p><span></span></p>
+          </div>
+          <div>立即夺宝</div>
+        </div>
+      </li>
+      <li>
+        <div>
+          <i><img src="/images/miaokai/mk002.jpg" /></i>
+          <b>【就怕你不中】 京东E卡电子看见俺还得是夸奖哈</b>
+        </div>
+        <div>
+          <div>
+            <p>开奖进度:<span>33%<span></p>
+            <p><span></span></p>
+          </div>
+          <div>立即夺宝</div>
+        </div>
+      </li>
+      <li>
+        <div>
+          <i><img src="/images/miaokai/mk002.jpg" /></i>
+          <b>【就怕你不中】 京东E卡电子看见俺还得是夸奖哈</b>
+        </div>
+        <div>
+          <div>
+            <p>开奖进度:<span>33%<span></p>
+            <p><span></span></p>
+          </div>
+          <div>立即夺宝</div>
+        </div>
+      </li>
+      <li>
+        <div>
+          <i><img src="/images/miaokai/mk002.jpg" /></i>
+          <b>【就怕你不中】 京东E卡电子看见俺还得是夸奖哈</b>
+        </div>
+        <div>
+          <div>
+            <p>开奖进度:<span>33%<span></p>
+            <p><span></span></p>
+          </div>
+          <div>立即夺宝</div>
+        </div>
+      </li>
+      <li>
+        <div>
+          <i><img src="/images/miaokai/mk002.jpg" /></i>
+          <b>【就怕你不中】 京东E卡电子看见俺还得是夸奖哈</b>
+        </div>
+        <div>
+          <div>
+            <p>开奖进度:<span>33%<span></p>
+            <p><span></span></p>
+          </div>
+          <div>立即夺宝</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <footer>
+    <ul>
+      <li>
+        <i class="yo-ico">&#xe70c;</i>
+        <b>一元街</b>
+      </li>
+      <li class="active">
+        <i class="yo-ico">&#xe705;</i>
+        <b>秒开</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe692;</i>
+        <b>我</b>
+      </li>
+    </ul>
+  </footer>
+</div>

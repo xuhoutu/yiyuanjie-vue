@@ -1,0 +1,38 @@
+<div  class="m-miaokai">
+  <header>
+    <div class="yo-ico">&#xe774;</div>
+    <div>夺宝详情</div>
+    <div class="yo-ico">&#xe7e5;</div>
+  </header>
+  <section>
+    <div>
+      <i><img src="/images/miaokai/mk001.jpg" alt="" title="" /></i>
+    </div>
+    <div>
+      <p>【就拍你不中】京东E卡电子卡10元面额 新年红卡开路</p>
+      <p>期数:第<span>3,650</span></p>
+      <div><span></span></div>
+      <p>总需<span>12</span>人次<i>剩余<b>8</b></i></p>
+    </div>
+    <div>
+      <p>商品详情<i class="yo-ico">&#xe606;</i></p>
+      <p>本期参与者<i class="yo-ico">&#xe606;</i></p>
+    </div>
+    <div>
+      <p>[第<span>3,649</span>期]得主：<span>剪不断</span><b>参与<i>1</i>人次</b></p>
+      <p>往期揭晓<i class="yo-ico">&#xe606;</i></p>
+    </div>
+  </section>
+  <footer>
+    <div>
+      <i class="yo-ico">&#xe67f;</i>
+      <span>
+        <b>参与</b>
+        <input type="number" value="1" min-value="1" />
+        <b>人次</b>
+      </span>
+      <i class="yo-ico">&#xe628;</i>
+    </div>
+    <div>立即抢宝</div>
+  </footer>
+</div>
